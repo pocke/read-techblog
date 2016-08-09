@@ -1,3 +1,10 @@
+2016/08/09
+----------
+
+- [babel-polyfillとbabel-runtimeの使い分けに迷ったので調べた - Qiita](http://qiita.com/inuscript/items/d2a9d5d4daedaacff924)
+- [なぜレッド・オーシャンのなかビジネスチャットを Wantedly は作っているのか by 岩永 勇輝 | Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/28007)
+- [Github issue で質問してはいけない - Qiita](http://qiita.com/methane/items/78a90c6efb1a7c4da57d)
+
 2016/08/08
 ----------
 
