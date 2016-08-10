@@ -1,3 +1,9 @@
+2016/08/10
+----------
+
+- [Macでログインシェルを確認/変更するいくつかの方法](http://rcmdnk.github.io/blog/2015/05/25/computer-mac-bash-zsh/)
+- [~/.ssh/config で簡単に複数ホストへのSSH接続を管理する - すぱぶろ](http://superbrothers.hatenablog.com/entry/20090730/1248971671)
+
 2016/08/09
 ----------
 
