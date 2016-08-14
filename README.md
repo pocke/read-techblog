@@ -1,3 +1,12 @@
+2016/08/13
+---------
+
+- [JWTを認証用トークンに使う時に調べたこと - Carpe Diem](http://christina04.hatenablog.com/entry/2016/06/07/123000)
+- [JSON Web Token の効用 - Qiita](http://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a)
+- [PostgreSQL - ArchWiki](https://wiki.archlinuxjp.org/index.php/PostgreSQL)
+- [Rails国際化(I18n) API | Rails ガイド](http://railsguides.jp/i18n.html)
+- [Mac OS X の NFD 問題での対策諸々 - Qiita](http://qiita.com/knaka/items/48e1799b56d520af6a09)
+
 2016/08/11
 ----------
 
