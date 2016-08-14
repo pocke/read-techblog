@@ -1,3 +1,8 @@
+2016/08/14
+-------
+
+- [git push --force でなく git push --force-with-lease を使う - valid,invalid](http://ohbarye.hatenablog.jp/entry/2016/04/04/235819)
+
 2016/08/13
 ---------
 
