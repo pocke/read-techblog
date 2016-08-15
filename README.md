@@ -1,3 +1,17 @@
+2016/08/14
+-------
+
+- [git push --force でなく git push --force-with-lease を使う - valid,invalid](http://ohbarye.hatenablog.jp/entry/2016/04/04/235819)
+
+2016/08/13
+---------
+
+- [JWTを認証用トークンに使う時に調べたこと - Carpe Diem](http://christina04.hatenablog.com/entry/2016/06/07/123000)
+- [JSON Web Token の効用 - Qiita](http://qiita.com/kaiinui/items/21ec7cc8a1130a1a103a)
+- [PostgreSQL - ArchWiki](https://wiki.archlinuxjp.org/index.php/PostgreSQL)
+- [Rails国際化(I18n) API | Rails ガイド](http://railsguides.jp/i18n.html)
+- [Mac OS X の NFD 問題での対策諸々 - Qiita](http://qiita.com/knaka/items/48e1799b56d520af6a09)
+
 2016/08/12
 ----------
 
@@ -11,9 +25,20 @@
 - 後で読む [1つのgitリポジトリに複数の作業ディレクトリを作る - Qiita](http://qiita.com/yuya_presto/items/dcebbebc6b3d9cf6f542)
 - 後で読む [git gcの自動実行はいつ行われるのか - $shibayu36->blog;](http://blog.shibayu36.org/entry/2015/07/06/103000)
 
+2016/08/11
+----------
+
+- [DockerfileをLintするにはhadolintが良さそう - tehepero note(・ω<)](http://blog.stormcat.io/entry/docker-hadolint)
+- [How I Made My Ruby Project 10x Faster - adit.io](http://adit.io/posts/2013-03-04-How-I-Made-My-Ruby-Project-10x-Faster.html)
+- [Benchmarking exceptions in Ruby - yep, they're slow.](http://blog.honeybadger.io/benchmarking-exceptions-in-ruby-yep-theyre-slow/)
+- [Rubyでベンチマークを取る - Qiita](http://qiita.com/itkrt2y/items/d34a593078f5b99d5fbe#gc)
+- [ビットシフトでRubyでも2^n倍の掛け算割り算は速くなる - yarbの日記](http://d.hatena.ne.jp/yarb/20121214/p1)
+>>>>>>> 72a7c2f087db9ff22624ebf4333013cf2ff074b1
+
 2016/08/10
 ----------
 
+- [BundlerでCのソースを含んだGemは簡単に作れる - Qiita](http://qiita.com/ymmtmdk/items/c2a9f233eeb33e5d18e2)
 - [Macでログインシェルを確認/変更するいくつかの方法](http://rcmdnk.github.io/blog/2015/05/25/computer-mac-bash-zsh/)
 - [~/.ssh/config で簡単に複数ホストへのSSH接続を管理する - すぱぶろ](http://superbrothers.hatenablog.com/entry/20090730/1248971671)
 
