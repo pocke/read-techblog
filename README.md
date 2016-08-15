@@ -1,3 +1,16 @@
+2016/08/12
+----------
+
+- [add_reference来てた - 飲んだり寝たり](http://nomnel.net/blog/rails-add-reference/)
+- [【たのしいな】様々なコマンド達を何も考えずにつないで遊ぶ - Qiita](http://qiita.com/greymd/items/a4ecf8e70f11eb1e5f72)
+- [Railsバリデーションまとめ - Qiita](http://qiita.com/shunhikita/items/772b81a1cc066e67930e)
+- [Range#include?の落とし穴（遅い） - Qiita](http://qiita.com/riocampos/items/3b2db385379973859c9b)
+- [テストコードの期待値はDRYを捨ててベタ書きする ～テストコードの重要な役割とは？～ - Qiita](http://qiita.com/jnchito/items/eb3cfa9f7db752dcb796)
+- [Mac OS X のターミナルで meta キーを使う方法 | DigitalFan [デジタルファン]](https://digitalfan.jp/3227)
+- [Rspecの"should"か"expect"か。"it"か"specify"か。 - Qiita](http://qiita.com/Momozono/items/c27c838a594c69cba50f)
+- 後で読む [1つのgitリポジトリに複数の作業ディレクトリを作る - Qiita](http://qiita.com/yuya_presto/items/dcebbebc6b3d9cf6f542)
+- 後で読む [git gcの自動実行はいつ行われるのか - $shibayu36->blog;](http://blog.shibayu36.org/entry/2015/07/06/103000)
+
 2016/08/10
 ----------
 
