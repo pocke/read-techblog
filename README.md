@@ -1,3 +1,13 @@
+2016/08/15
+-------
+
+- [android - Duplicate files while including butterknife with gradle - Stack Overflow](http://stackoverflow.com/questions/22439156/duplicate-files-while-including-butterknife-with-gradle)
+- [JavaのListについて - Qiita](http://qiita.com/akito0107/items/df2353a2015806814642)
+- [Java 8 "Optional" ～ これからのnullとの付き合い方 ～ - Qiita](http://qiita.com/shindooo/items/815d651a72f568112910)
+- [IntelliJ IDEA クイックスタート – コードスタイルとフォーマット | サムライズム](http://samuraism.com/products/jetbrains/intellij-idea/quickstart/codestyle-and-formatting)
+- [Intellij IDEA 14 に ideavim 入れて使うときのクリップボード共有設定 - Qiita](http://qiita.com/macoshita/items/1e890764c37bfd071ea4)
+- [HomebrewでRictyフォントをインストールする ( Mac OS X10.10 Yosemite ) - TASK NOTES](http://www.task-notes.com/entry/20150124/1422091466)
+
 2016/08/14
 -------
 
