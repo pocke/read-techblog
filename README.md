@@ -1,3 +1,20 @@
+2016/08/18
+------
+
+- [ユニコード文字プロパティについて - JS.next](http://js-next.hatenablog.com/entry/2016/04/21/013010)
+
+2016/08/16
+-------
+
+- [Auto Layoutの設計ベストプラクティスと、Viewの種類ごとのテクニック集 - Qiita](http://qiita.com/yuya_presto/items/08b0656f67a59c8c2d03)
+- [segueのきほん - Qiita](http://qiita.com/mag4n/items/ea7058b35bd7ca99a9e5)
+- [Swift 2.0 の try, catch ファーストインプレッション - Qiita](http://qiita.com/koher/items/0c60b13ff0fe93220210)
+- [[Swift] タイプセーフなJSONデコーダ「Himotoki」を試してみた ｜ Developers.IO](http://dev.classmethod.jp/smartphone/himotoki/)
+- [Swift 2.0 で追加された guard のいいところ - Qiita](http://qiita.com/mishimay/items/75fb0958f33079ff0e8a)
+- [いつか見た惑星: iOSでテーブルビューを使う](http://sushichop.blogspot.jp/2013/12/ios.html)
+- [xvim の設定は，基本 "いつもの" 感じで .xvimrc に - ばかもりだし](http://baqamore.hatenablog.com/entry/2015/02/08/091658)
+- [How to reinstall XVim · Issue #838 · XVimProject/XVim](https://github.com/XVimProject/XVim/issues/838)
+
 2016/08/15
 -------
 
